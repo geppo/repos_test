@@ -8,11 +8,11 @@ public class Test {
 }
 
 /* Git revision information:
-* $Id$
-* $Date$
-* $File$
-* $Author$
-* $Revision$
-* $Source$
+* $Id $
+* $Date $
+* $File $
+* $Author $
+* $Revision $
+* $Source $
 */
 
